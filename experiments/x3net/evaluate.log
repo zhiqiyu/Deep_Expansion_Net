@@ -1,0 +1,7 @@
+2019-05-13 20:44:41,743:INFO: Creating the dataset...
+2019-05-13 20:44:41,757:INFO: - done.
+2019-05-13 20:44:47,811:INFO: Starting evaluation
+2019-05-13 20:48:25,164:INFO: Creating the dataset...
+2019-05-13 20:48:25,167:INFO: - done.
+2019-05-13 20:48:27,163:INFO: Starting evaluation
+2019-05-13 20:49:28,038:INFO: - Eval metrics : psnr: 32.04124 ; ssim: 0.92164 ; loss: 0.00068

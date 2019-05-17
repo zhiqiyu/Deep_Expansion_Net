@@ -1,0 +1,275 @@
+2019-04-30 02:47:18,247:INFO: Loading the datasets...
+2019-04-30 02:47:18,252:INFO: - done.
+2019-04-30 02:47:20,266:INFO: Starting training for 80 epoch(s)
+2019-04-30 02:47:20,266:INFO: Epoch 1/80
+2019-04-30 02:48:44,009:INFO: - Train metrics: psnr: 30.59978 ; ssim: 0.93554 ; loss: 0.00098
+2019-04-30 02:49:03,325:INFO: - Eval metrics : psnr: 31.17854 ; ssim: 0.93607 ; loss: 0.00082
+2019-04-30 02:49:03,334:INFO: - Found new best validation metric
+2019-04-30 02:49:03,334:INFO: Epoch 2/80
+2019-04-30 02:50:24,466:INFO: - Train metrics: psnr: 33.17012 ; ssim: 0.94291 ; loss: 0.00053
+2019-04-30 02:50:43,361:INFO: - Eval metrics : psnr: 32.95200 ; ssim: 0.94802 ; loss: 0.00056
+2019-04-30 02:50:43,369:INFO: - Found new best validation metric
+2019-04-30 02:50:43,370:INFO: Epoch 3/80
+2019-04-30 02:52:04,557:INFO: - Train metrics: psnr: 33.24277 ; ssim: 0.94455 ; loss: 0.00051
+2019-04-30 02:52:22,750:INFO: - Eval metrics : psnr: 33.48219 ; ssim: 0.95011 ; loss: 0.00050
+2019-04-30 02:52:22,759:INFO: - Found new best validation metric
+2019-04-30 02:52:22,759:INFO: Epoch 4/80
+2019-04-30 02:53:43,963:INFO: - Train metrics: psnr: 34.71166 ; ssim: 0.95416 ; loss: 0.00038
+2019-04-30 02:54:01,599:INFO: - Eval metrics : psnr: 33.75896 ; ssim: 0.95171 ; loss: 0.00047
+2019-04-30 02:54:01,608:INFO: - Found new best validation metric
+2019-04-30 02:54:01,608:INFO: Epoch 5/80
+2019-04-30 02:55:22,817:INFO: - Train metrics: psnr: 34.52912 ; ssim: 0.95204 ; loss: 0.00039
+2019-04-30 02:55:40,394:INFO: - Eval metrics : psnr: 33.86968 ; ssim: 0.95121 ; loss: 0.00046
+2019-04-30 02:55:40,402:INFO: - Found new best validation metric
+2019-04-30 02:55:40,403:INFO: Epoch 6/80
+2019-04-30 02:57:01,656:INFO: - Train metrics: psnr: 35.29700 ; ssim: 0.95647 ; loss: 0.00031
+2019-04-30 02:57:19,470:INFO: - Eval metrics : psnr: 33.91875 ; ssim: 0.95147 ; loss: 0.00045
+2019-04-30 02:57:19,478:INFO: - Found new best validation metric
+2019-04-30 02:57:19,479:INFO: Epoch 7/80
+2019-04-30 02:58:40,803:INFO: - Train metrics: psnr: 33.95401 ; ssim: 0.95144 ; loss: 0.00044
+2019-04-30 02:58:58,474:INFO: - Eval metrics : psnr: 34.06267 ; ssim: 0.95279 ; loss: 0.00044
+2019-04-30 02:58:58,482:INFO: - Found new best validation metric
+2019-04-30 02:58:58,483:INFO: Epoch 8/80
+2019-04-30 03:00:19,760:INFO: - Train metrics: psnr: 34.87881 ; ssim: 0.95396 ; loss: 0.00034
+2019-04-30 03:00:37,262:INFO: - Eval metrics : psnr: 33.95061 ; ssim: 0.95278 ; loss: 0.00045
+2019-04-30 03:00:37,269:INFO: Epoch 9/80
+2019-04-30 03:01:58,535:INFO: - Train metrics: psnr: 34.22979 ; ssim: 0.95473 ; loss: 0.00042
+2019-04-30 03:02:16,362:INFO: - Eval metrics : psnr: 34.17742 ; ssim: 0.95360 ; loss: 0.00042
+2019-04-30 03:02:16,370:INFO: - Found new best validation metric
+2019-04-30 03:02:16,371:INFO: Epoch 10/80
+2019-04-30 03:03:37,630:INFO: - Train metrics: psnr: 35.19852 ; ssim: 0.95697 ; loss: 0.00032
+2019-04-30 03:03:55,297:INFO: - Eval metrics : psnr: 34.16323 ; ssim: 0.95303 ; loss: 0.00043
+2019-04-30 03:03:55,305:INFO: Epoch 11/80
+2019-04-30 03:05:16,643:INFO: - Train metrics: psnr: 34.01708 ; ssim: 0.95463 ; loss: 0.00044
+2019-04-30 03:05:34,285:INFO: - Eval metrics : psnr: 34.22303 ; ssim: 0.95375 ; loss: 0.00042
+2019-04-30 03:05:34,293:INFO: - Found new best validation metric
+2019-04-30 03:05:34,294:INFO: Epoch 12/80
+2019-04-30 03:06:55,554:INFO: - Train metrics: psnr: 33.97247 ; ssim: 0.95085 ; loss: 0.00047
+2019-04-30 03:07:13,404:INFO: - Eval metrics : psnr: 34.23647 ; ssim: 0.95376 ; loss: 0.00042
+2019-04-30 03:07:13,413:INFO: - Found new best validation metric
+2019-04-30 03:07:13,413:INFO: Epoch 13/80
+2019-04-30 03:08:34,762:INFO: - Train metrics: psnr: 34.49546 ; ssim: 0.95179 ; loss: 0.00042
+2019-04-30 03:08:52,352:INFO: - Eval metrics : psnr: 34.24804 ; ssim: 0.95377 ; loss: 0.00042
+2019-04-30 03:08:52,360:INFO: - Found new best validation metric
+2019-04-30 03:08:52,361:INFO: Epoch 14/80
+2019-04-30 03:10:13,614:INFO: - Train metrics: psnr: 35.18951 ; ssim: 0.95168 ; loss: 0.00034
+2019-04-30 03:10:31,189:INFO: - Eval metrics : psnr: 34.24996 ; ssim: 0.95378 ; loss: 0.00042
+2019-04-30 03:10:31,197:INFO: - Found new best validation metric
+2019-04-30 03:10:31,197:INFO: Epoch 15/80
+2019-04-30 03:11:52,402:INFO: - Train metrics: psnr: 34.94782 ; ssim: 0.95009 ; loss: 0.00034
+2019-04-30 03:12:10,181:INFO: - Eval metrics : psnr: 34.25938 ; ssim: 0.95391 ; loss: 0.00042
+2019-04-30 03:12:10,189:INFO: - Found new best validation metric
+2019-04-30 03:12:10,189:INFO: Epoch 16/80
+2019-04-30 03:13:31,466:INFO: - Train metrics: psnr: 35.65864 ; ssim: 0.95536 ; loss: 0.00031
+2019-04-30 03:13:49,223:INFO: - Eval metrics : psnr: 34.24029 ; ssim: 0.95374 ; loss: 0.00042
+2019-04-30 03:13:49,231:INFO: Epoch 17/80
+2019-04-30 03:15:10,479:INFO: - Train metrics: psnr: 34.88823 ; ssim: 0.95310 ; loss: 0.00035
+2019-04-30 03:15:28,363:INFO: - Eval metrics : psnr: 34.26752 ; ssim: 0.95400 ; loss: 0.00042
+2019-04-30 03:15:28,372:INFO: - Found new best validation metric
+2019-04-30 03:15:28,372:INFO: Epoch 18/80
+2019-04-30 03:16:49,815:INFO: - Train metrics: psnr: 35.00154 ; ssim: 0.95443 ; loss: 0.00035
+2019-04-30 03:17:07,455:INFO: - Eval metrics : psnr: 34.26087 ; ssim: 0.95377 ; loss: 0.00042
+2019-04-30 03:17:07,463:INFO: Epoch 19/80
+2019-04-30 03:18:28,752:INFO: - Train metrics: psnr: 35.45820 ; ssim: 0.95460 ; loss: 0.00030
+2019-04-30 03:18:46,864:INFO: - Eval metrics : psnr: 34.26524 ; ssim: 0.95385 ; loss: 0.00042
+2019-04-30 03:18:46,871:INFO: Epoch 20/80
+2019-04-30 03:20:08,207:INFO: - Train metrics: psnr: 34.10923 ; ssim: 0.95361 ; loss: 0.00043
+2019-04-30 03:20:26,359:INFO: - Eval metrics : psnr: 34.27216 ; ssim: 0.95385 ; loss: 0.00042
+2019-04-30 03:20:26,367:INFO: - Found new best validation metric
+2019-04-30 03:20:26,367:INFO: Epoch 21/80
+2019-04-30 03:21:47,695:INFO: - Train metrics: psnr: 33.95152 ; ssim: 0.95194 ; loss: 0.00043
+2019-04-30 03:22:05,439:INFO: - Eval metrics : psnr: 34.25829 ; ssim: 0.95384 ; loss: 0.00042
+2019-04-30 03:22:05,446:INFO: Epoch 22/80
+2019-04-30 03:23:26,743:INFO: - Train metrics: psnr: 34.67152 ; ssim: 0.95168 ; loss: 0.00037
+2019-04-30 03:23:44,565:INFO: - Eval metrics : psnr: 34.28030 ; ssim: 0.95386 ; loss: 0.00041
+2019-04-30 03:23:44,573:INFO: - Found new best validation metric
+2019-04-30 03:23:44,574:INFO: Epoch 23/80
+2019-04-30 03:25:06,013:INFO: - Train metrics: psnr: 34.52071 ; ssim: 0.95236 ; loss: 0.00040
+2019-04-30 03:25:24,116:INFO: - Eval metrics : psnr: 34.28245 ; ssim: 0.95398 ; loss: 0.00041
+2019-04-30 03:25:24,124:INFO: - Found new best validation metric
+2019-04-30 03:25:24,124:INFO: Epoch 24/80
+2019-04-30 03:26:45,603:INFO: - Train metrics: psnr: 35.03819 ; ssim: 0.95226 ; loss: 0.00033
+2019-04-30 03:27:03,662:INFO: - Eval metrics : psnr: 34.28551 ; ssim: 0.95401 ; loss: 0.00041
+2019-04-30 03:27:03,671:INFO: - Found new best validation metric
+2019-04-30 03:27:03,671:INFO: Epoch 25/80
+2019-04-30 03:28:25,057:INFO: - Train metrics: psnr: 34.94323 ; ssim: 0.95449 ; loss: 0.00038
+2019-04-30 03:28:42,844:INFO: - Eval metrics : psnr: 34.28516 ; ssim: 0.95396 ; loss: 0.00041
+2019-04-30 03:28:42,852:INFO: Epoch 26/80
+2019-04-30 03:30:04,217:INFO: - Train metrics: psnr: 34.55850 ; ssim: 0.95107 ; loss: 0.00038
+2019-04-30 03:30:21,963:INFO: - Eval metrics : psnr: 34.28008 ; ssim: 0.95382 ; loss: 0.00042
+2019-04-30 03:30:21,970:INFO: Epoch 27/80
+2019-04-30 03:31:43,551:INFO: - Train metrics: psnr: 34.91255 ; ssim: 0.95369 ; loss: 0.00037
+2019-04-30 03:32:01,347:INFO: - Eval metrics : psnr: 34.27549 ; ssim: 0.95385 ; loss: 0.00042
+2019-04-30 03:32:01,354:INFO: Epoch 28/80
+2019-04-30 03:33:22,832:INFO: - Train metrics: psnr: 34.21845 ; ssim: 0.95202 ; loss: 0.00041
+2019-04-30 03:33:40,719:INFO: - Eval metrics : psnr: 34.30351 ; ssim: 0.95395 ; loss: 0.00041
+2019-04-30 03:33:40,727:INFO: - Found new best validation metric
+2019-04-30 03:33:40,727:INFO: Epoch 29/80
+2019-04-30 03:35:02,279:INFO: - Train metrics: psnr: 33.83490 ; ssim: 0.95231 ; loss: 0.00046
+2019-04-30 03:35:20,077:INFO: - Eval metrics : psnr: 34.30285 ; ssim: 0.95395 ; loss: 0.00041
+2019-04-30 03:35:20,085:INFO: Epoch 30/80
+2019-04-30 03:36:41,644:INFO: - Train metrics: psnr: 34.90878 ; ssim: 0.95510 ; loss: 0.00035
+2019-04-30 03:36:59,736:INFO: - Eval metrics : psnr: 34.30561 ; ssim: 0.95399 ; loss: 0.00041
+2019-04-30 03:36:59,744:INFO: - Found new best validation metric
+2019-04-30 03:36:59,745:INFO: Epoch 31/80
+2019-04-30 03:38:21,335:INFO: - Train metrics: psnr: 33.90320 ; ssim: 0.95398 ; loss: 0.00047
+2019-04-30 03:38:39,430:INFO: - Eval metrics : psnr: 34.31041 ; ssim: 0.95403 ; loss: 0.00041
+2019-04-30 03:38:39,438:INFO: - Found new best validation metric
+2019-04-30 03:38:39,439:INFO: Epoch 32/80
+2019-04-30 03:40:00,893:INFO: - Train metrics: psnr: 34.73455 ; ssim: 0.95304 ; loss: 0.00036
+2019-04-30 03:40:18,961:INFO: - Eval metrics : psnr: 34.31152 ; ssim: 0.95402 ; loss: 0.00041
+2019-04-30 03:40:18,969:INFO: - Found new best validation metric
+2019-04-30 03:40:18,969:INFO: Epoch 33/80
+2019-04-30 03:41:40,558:INFO: - Train metrics: psnr: 35.24490 ; ssim: 0.95174 ; loss: 0.00034
+2019-04-30 03:41:58,378:INFO: - Eval metrics : psnr: 34.31218 ; ssim: 0.95407 ; loss: 0.00041
+2019-04-30 03:41:58,387:INFO: - Found new best validation metric
+2019-04-30 03:41:58,387:INFO: Epoch 34/80
+2019-04-30 03:43:20,068:INFO: - Train metrics: psnr: 33.51894 ; ssim: 0.95048 ; loss: 0.00051
+2019-04-30 03:43:38,118:INFO: - Eval metrics : psnr: 34.31288 ; ssim: 0.95406 ; loss: 0.00041
+2019-04-30 03:43:38,126:INFO: - Found new best validation metric
+2019-04-30 03:43:38,127:INFO: Epoch 35/80
+2019-04-30 03:44:59,728:INFO: - Train metrics: psnr: 35.09080 ; ssim: 0.95639 ; loss: 0.00034
+2019-04-30 03:45:17,808:INFO: - Eval metrics : psnr: 34.31380 ; ssim: 0.95405 ; loss: 0.00041
+2019-04-30 03:45:17,816:INFO: - Found new best validation metric
+2019-04-30 03:45:17,817:INFO: Epoch 36/80
+2019-04-30 03:46:39,532:INFO: - Train metrics: psnr: 34.84812 ; ssim: 0.95780 ; loss: 0.00036
+2019-04-30 03:46:57,861:INFO: - Eval metrics : psnr: 34.31629 ; ssim: 0.95407 ; loss: 0.00041
+2019-04-30 03:46:57,869:INFO: - Found new best validation metric
+2019-04-30 03:46:57,870:INFO: Epoch 37/80
+2019-04-30 03:48:19,561:INFO: - Train metrics: psnr: 35.15158 ; ssim: 0.95625 ; loss: 0.00033
+2019-04-30 03:48:37,893:INFO: - Eval metrics : psnr: 34.31572 ; ssim: 0.95406 ; loss: 0.00041
+2019-04-30 03:48:37,901:INFO: Epoch 38/80
+2019-04-30 03:49:59,527:INFO: - Train metrics: psnr: 35.06671 ; ssim: 0.95512 ; loss: 0.00034
+2019-04-30 03:50:17,949:INFO: - Eval metrics : psnr: 34.31603 ; ssim: 0.95408 ; loss: 0.00041
+2019-04-30 03:50:17,956:INFO: Epoch 39/80
+2019-04-30 03:51:39,652:INFO: - Train metrics: psnr: 34.17355 ; ssim: 0.95359 ; loss: 0.00041
+2019-04-30 03:51:57,856:INFO: - Eval metrics : psnr: 34.31431 ; ssim: 0.95408 ; loss: 0.00041
+2019-04-30 03:51:57,863:INFO: Epoch 40/80
+2019-04-30 03:53:19,558:INFO: - Train metrics: psnr: 34.95531 ; ssim: 0.95955 ; loss: 0.00035
+2019-04-30 03:53:37,522:INFO: - Eval metrics : psnr: 34.31393 ; ssim: 0.95405 ; loss: 0.00041
+2019-04-30 03:53:37,529:INFO: Epoch 41/80
+2019-04-30 03:54:58,999:INFO: - Train metrics: psnr: 35.67128 ; ssim: 0.95551 ; loss: 0.00029
+2019-04-30 03:55:16,848:INFO: - Eval metrics : psnr: 34.31319 ; ssim: 0.95407 ; loss: 0.00041
+2019-04-30 03:55:16,856:INFO: Epoch 42/80
+2019-04-30 03:56:38,184:INFO: - Train metrics: psnr: 34.22874 ; ssim: 0.95189 ; loss: 0.00044
+2019-04-30 03:56:56,065:INFO: - Eval metrics : psnr: 34.31929 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 03:56:56,073:INFO: - Found new best validation metric
+2019-04-30 03:56:56,073:INFO: Epoch 43/80
+2019-04-30 03:58:17,433:INFO: - Train metrics: psnr: 34.84496 ; ssim: 0.95133 ; loss: 0.00037
+2019-04-30 03:58:35,531:INFO: - Eval metrics : psnr: 34.31843 ; ssim: 0.95409 ; loss: 0.00041
+2019-04-30 03:58:35,539:INFO: Epoch 44/80
+2019-04-30 03:59:57,128:INFO: - Train metrics: psnr: 33.64096 ; ssim: 0.95316 ; loss: 0.00046
+2019-04-30 04:00:15,274:INFO: - Eval metrics : psnr: 34.31697 ; ssim: 0.95405 ; loss: 0.00041
+2019-04-30 04:00:15,282:INFO: Epoch 45/80
+2019-04-30 04:01:36,832:INFO: - Train metrics: psnr: 34.29914 ; ssim: 0.95388 ; loss: 0.00039
+2019-04-30 04:01:54,937:INFO: - Eval metrics : psnr: 34.31755 ; ssim: 0.95406 ; loss: 0.00041
+2019-04-30 04:01:54,945:INFO: Epoch 46/80
+2019-04-30 04:03:16,509:INFO: - Train metrics: psnr: 35.11718 ; ssim: 0.94891 ; loss: 0.00032
+2019-04-30 04:03:34,280:INFO: - Eval metrics : psnr: 34.32053 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:03:34,288:INFO: - Found new best validation metric
+2019-04-30 04:03:34,288:INFO: Epoch 47/80
+2019-04-30 04:04:55,805:INFO: - Train metrics: psnr: 34.37456 ; ssim: 0.95500 ; loss: 0.00042
+2019-04-30 04:05:14,254:INFO: - Eval metrics : psnr: 34.31778 ; ssim: 0.95406 ; loss: 0.00041
+2019-04-30 04:05:14,261:INFO: Epoch 48/80
+2019-04-30 04:06:35,665:INFO: - Train metrics: psnr: 34.67827 ; ssim: 0.95471 ; loss: 0.00037
+2019-04-30 04:06:53,942:INFO: - Eval metrics : psnr: 34.31925 ; ssim: 0.95408 ; loss: 0.00041
+2019-04-30 04:06:53,949:INFO: Epoch 49/80
+2019-04-30 04:08:15,359:INFO: - Train metrics: psnr: 34.63971 ; ssim: 0.95536 ; loss: 0.00037
+2019-04-30 04:08:33,047:INFO: - Eval metrics : psnr: 34.31974 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:08:33,055:INFO: Epoch 50/80
+2019-04-30 04:09:54,536:INFO: - Train metrics: psnr: 34.53214 ; ssim: 0.95430 ; loss: 0.00040
+2019-04-30 04:10:12,373:INFO: - Eval metrics : psnr: 34.32197 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:10:12,381:INFO: - Found new best validation metric
+2019-04-30 04:10:12,382:INFO: Epoch 51/80
+2019-04-30 04:11:33,735:INFO: - Train metrics: psnr: 34.29562 ; ssim: 0.95199 ; loss: 0.00043
+2019-04-30 04:11:51,672:INFO: - Eval metrics : psnr: 34.32220 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:11:51,680:INFO: - Found new best validation metric
+2019-04-30 04:11:51,680:INFO: Epoch 52/80
+2019-04-30 04:13:13,093:INFO: - Train metrics: psnr: 33.04755 ; ssim: 0.94822 ; loss: 0.00053
+2019-04-30 04:13:30,948:INFO: - Eval metrics : psnr: 34.32158 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:13:30,955:INFO: Epoch 53/80
+2019-04-30 04:14:52,251:INFO: - Train metrics: psnr: 35.09312 ; ssim: 0.95190 ; loss: 0.00033
+2019-04-30 04:15:09,953:INFO: - Eval metrics : psnr: 34.32118 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:15:09,961:INFO: Epoch 54/80
+2019-04-30 04:16:31,195:INFO: - Train metrics: psnr: 34.56200 ; ssim: 0.94986 ; loss: 0.00040
+2019-04-30 04:16:48,972:INFO: - Eval metrics : psnr: 34.32148 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:16:48,980:INFO: Epoch 55/80
+2019-04-30 04:18:10,236:INFO: - Train metrics: psnr: 34.88400 ; ssim: 0.95360 ; loss: 0.00036
+2019-04-30 04:18:27,821:INFO: - Eval metrics : psnr: 34.32125 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:18:27,828:INFO: Epoch 56/80
+2019-04-30 04:19:49,064:INFO: - Train metrics: psnr: 35.43063 ; ssim: 0.95592 ; loss: 0.00032
+2019-04-30 04:20:06,829:INFO: - Eval metrics : psnr: 34.32116 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:20:06,837:INFO: Epoch 57/80
+2019-04-30 04:21:28,217:INFO: - Train metrics: psnr: 34.98973 ; ssim: 0.95726 ; loss: 0.00036
+2019-04-30 04:21:46,195:INFO: - Eval metrics : psnr: 34.32155 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:21:46,202:INFO: Epoch 58/80
+2019-04-30 04:23:07,505:INFO: - Train metrics: psnr: 34.29142 ; ssim: 0.95385 ; loss: 0.00040
+2019-04-30 04:23:25,170:INFO: - Eval metrics : psnr: 34.32195 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:23:25,178:INFO: Epoch 59/80
+2019-04-30 04:24:46,512:INFO: - Train metrics: psnr: 34.38172 ; ssim: 0.94919 ; loss: 0.00040
+2019-04-30 04:25:04,583:INFO: - Eval metrics : psnr: 34.32193 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:25:04,591:INFO: Epoch 60/80
+2019-04-30 04:26:25,998:INFO: - Train metrics: psnr: 35.44954 ; ssim: 0.95256 ; loss: 0.00030
+2019-04-30 04:26:43,845:INFO: - Eval metrics : psnr: 34.32180 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:26:43,853:INFO: Epoch 61/80
+2019-04-30 04:28:05,207:INFO: - Train metrics: psnr: 34.76395 ; ssim: 0.95614 ; loss: 0.00037
+2019-04-30 04:28:23,145:INFO: - Eval metrics : psnr: 34.32189 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:28:23,153:INFO: Epoch 62/80
+2019-04-30 04:29:44,492:INFO: - Train metrics: psnr: 34.31902 ; ssim: 0.95767 ; loss: 0.00043
+2019-04-30 04:30:02,719:INFO: - Eval metrics : psnr: 34.32181 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:30:02,727:INFO: Epoch 63/80
+2019-04-30 04:31:24,113:INFO: - Train metrics: psnr: 34.68239 ; ssim: 0.95525 ; loss: 0.00036
+2019-04-30 04:31:42,100:INFO: - Eval metrics : psnr: 34.32141 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:31:42,108:INFO: Epoch 64/80
+2019-04-30 04:33:03,546:INFO: - Train metrics: psnr: 33.99838 ; ssim: 0.95373 ; loss: 0.00045
+2019-04-30 04:33:21,566:INFO: - Eval metrics : psnr: 34.32133 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:33:21,574:INFO: Epoch 65/80
+2019-04-30 04:34:42,829:INFO: - Train metrics: psnr: 34.29526 ; ssim: 0.95272 ; loss: 0.00041
+2019-04-30 04:35:00,968:INFO: - Eval metrics : psnr: 34.32139 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:35:00,975:INFO: Epoch 66/80
+2019-04-30 04:36:22,130:INFO: - Train metrics: psnr: 35.10701 ; ssim: 0.95620 ; loss: 0.00032
+2019-04-30 04:36:39,843:INFO: - Eval metrics : psnr: 34.32125 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:36:39,851:INFO: Epoch 67/80
+2019-04-30 04:38:01,011:INFO: - Train metrics: psnr: 34.59320 ; ssim: 0.95444 ; loss: 0.00039
+2019-04-30 04:38:19,056:INFO: - Eval metrics : psnr: 34.32103 ; ssim: 0.95409 ; loss: 0.00041
+2019-04-30 04:38:19,064:INFO: Epoch 68/80
+2019-04-30 04:39:40,360:INFO: - Train metrics: psnr: 34.48034 ; ssim: 0.95396 ; loss: 0.00041
+2019-04-30 04:39:58,066:INFO: - Eval metrics : psnr: 34.32143 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:39:58,073:INFO: Epoch 69/80
+2019-04-30 04:41:19,515:INFO: - Train metrics: psnr: 34.96558 ; ssim: 0.95514 ; loss: 0.00035
+2019-04-30 04:41:37,256:INFO: - Eval metrics : psnr: 34.32130 ; ssim: 0.95409 ; loss: 0.00041
+2019-04-30 04:41:37,264:INFO: Epoch 70/80
+2019-04-30 04:42:58,575:INFO: - Train metrics: psnr: 33.93123 ; ssim: 0.95567 ; loss: 0.00045
+2019-04-30 04:43:16,458:INFO: - Eval metrics : psnr: 34.32052 ; ssim: 0.95409 ; loss: 0.00041
+2019-04-30 04:43:16,465:INFO: Epoch 71/80
+2019-04-30 04:44:37,883:INFO: - Train metrics: psnr: 34.32888 ; ssim: 0.95190 ; loss: 0.00044
+2019-04-30 04:44:55,560:INFO: - Eval metrics : psnr: 34.32115 ; ssim: 0.95409 ; loss: 0.00041
+2019-04-30 04:44:55,567:INFO: Epoch 72/80
+2019-04-30 04:46:17,060:INFO: - Train metrics: psnr: 35.06405 ; ssim: 0.95286 ; loss: 0.00032
+2019-04-30 04:46:34,846:INFO: - Eval metrics : psnr: 34.32108 ; ssim: 0.95409 ; loss: 0.00041
+2019-04-30 04:46:34,854:INFO: Epoch 73/80
+2019-04-30 04:47:56,206:INFO: - Train metrics: psnr: 35.21709 ; ssim: 0.94830 ; loss: 0.00032
+2019-04-30 04:48:14,083:INFO: - Eval metrics : psnr: 34.32095 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:48:14,091:INFO: Epoch 74/80
+2019-04-30 04:49:35,539:INFO: - Train metrics: psnr: 34.04509 ; ssim: 0.95401 ; loss: 0.00043
+2019-04-30 04:49:53,322:INFO: - Eval metrics : psnr: 34.32226 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:49:53,330:INFO: - Found new best validation metric
+2019-04-30 04:49:53,331:INFO: Epoch 75/80
+2019-04-30 04:51:14,620:INFO: - Train metrics: psnr: 33.78882 ; ssim: 0.95227 ; loss: 0.00048
+2019-04-30 04:51:32,496:INFO: - Eval metrics : psnr: 34.32166 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:51:32,504:INFO: Epoch 76/80
+2019-04-30 04:52:53,945:INFO: - Train metrics: psnr: 35.16173 ; ssim: 0.95391 ; loss: 0.00032
+2019-04-30 04:53:11,923:INFO: - Eval metrics : psnr: 34.32214 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:53:11,931:INFO: Epoch 77/80
+2019-04-30 04:54:33,442:INFO: - Train metrics: psnr: 34.91822 ; ssim: 0.95235 ; loss: 0.00036
+2019-04-30 04:54:51,145:INFO: - Eval metrics : psnr: 34.32195 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:54:51,153:INFO: Epoch 78/80
+2019-04-30 04:56:12,545:INFO: - Train metrics: psnr: 34.66148 ; ssim: 0.95464 ; loss: 0.00039
+2019-04-30 04:56:30,534:INFO: - Eval metrics : psnr: 34.32195 ; ssim: 0.95410 ; loss: 0.00041
+2019-04-30 04:56:30,542:INFO: Epoch 79/80
+2019-04-30 04:57:52,076:INFO: - Train metrics: psnr: 35.06714 ; ssim: 0.95724 ; loss: 0.00033
+2019-04-30 04:58:09,855:INFO: - Eval metrics : psnr: 34.32253 ; ssim: 0.95411 ; loss: 0.00041
+2019-04-30 04:58:09,862:INFO: - Found new best validation metric
+2019-04-30 04:58:09,863:INFO: Epoch 80/80
+2019-04-30 04:59:31,376:INFO: - Train metrics: psnr: 35.86318 ; ssim: 0.95823 ; loss: 0.00028
+2019-04-30 04:59:49,420:INFO: - Eval metrics : psnr: 34.32229 ; ssim: 0.95411 ; loss: 0.00041
